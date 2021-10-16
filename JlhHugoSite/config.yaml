@@ -1,0 +1,35 @@
+baseURL: 'http://jlh18.github.io/'
+languageCode: 'en-us'
+title: 'J Hua'
+theme: 'PaperMod'
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Home
+                  url: #
+                  weight: 1
+                - name: Archive
+                  url: archives
+                  weight: 15
+                - name: The HoTT Game
+                  url: hott/
+                  weight: 5
+                - name: Ax-G in Lean
+                  url: lean/
+                  weight: 7
+                - name: Model Theory Notes
+                  url: model/
+                  weight: 10
+
+params:
+    homeInfoParams:
+        Title: J Hua
+        Content: I am a mathematician interested in type theory and logic.
+
+    socialIcons: # optional
+        - name: github
+          url: "https://github.com/Jlh18/"
