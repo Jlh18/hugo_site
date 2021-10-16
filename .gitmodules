@@ -1,0 +1,4 @@
+[submodule "JlhHugoSite/public"]
+	path = JlhHugoSite/public
+	url = https://github.com/Jlh18/jlh18.github.io.git
+	branch = main
