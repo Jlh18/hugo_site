@@ -2,3 +2,6 @@
 	path = JlhHugoSite/public
 	url = https://github.com/Jlh18/jlh18.github.io.git
 	branch = main
+[submodule "jlhsite/themes/PaperMod"]
+	path = jlhsite/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
