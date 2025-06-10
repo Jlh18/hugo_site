@@ -1,6 +1,5 @@
 +++
 date = '2025-06-10T07:19:16-04:00'
-draft = true
 title = 'HoTTLean'
 menus = 'main'
 weight = 1

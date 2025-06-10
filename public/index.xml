@@ -9,6 +9,27 @@
     <lastBuildDate>Tue, 10 Jun 2025 07:19:16 -0400</lastBuildDate>
     <atom:link href="http://jlh18.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>HoTTLean</title>
+      <link>http://jlh18.github.io/hottlean/</link>
+      <pubDate>Tue, 10 Jun 2025 07:19:16 -0400</pubDate>
+      <guid>http://jlh18.github.io/hottlean/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/sinhp/groupoid_model_in_lean4&#34;&gt;HoTTLean&lt;/a&gt; is a project that aims to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a proof assistant for a fragment of HoTT (homtopy type theory) called
+HoTT0 within Lean as a domain
+specific language,
+using its meta-programming facilities.&lt;/li&gt;
+&lt;li&gt;Formalize the semantics of HoTT0 using natural model semantics
+using category theory in the Lean mathemtaics library
+&lt;a href=&#34;https://leanprover-community.github.io/mathlib-overview.html&#34;&gt;Mathlib&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Foramlize the groupoid model of HoTT as an instance of natural model
+semantics.&lt;/li&gt;
+&lt;li&gt;Automate the interpretation so that axiomatic HoTT0 proofs
+can be &amp;ldquo;compiled&amp;rdquo; into proofs about Mathlib&amp;rsquo;s groupoids.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The github repository is available &lt;a href=&#34;https://github.com/sinhp/groupoid_model_in_lean4&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Ax-G in Lean</title>
       <link>http://jlh18.github.io/axg/</link>
       <pubDate>Tue, 10 Jun 2025 07:19:16 -0400</pubDate>
