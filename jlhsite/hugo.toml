@@ -5,3 +5,7 @@ theme = 'PaperMod'
 
 [Params]
   subtitle = "Joseph Hua"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
