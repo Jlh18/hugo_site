@@ -1,6 +1,6 @@
 # About me
 
-![Me!](/images/josephhua1.jpg)
+![Me!](josephhua1.jpg)
 
 I work on proof assistants and semantics of dependent type theories.
 
