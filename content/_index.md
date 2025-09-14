@@ -38,7 +38,7 @@ groupoid and cubical quotients in models of HoTT.
 
   Defining quotients of (Cartesian) cubical objects;
   classifying higher kernels of cubical quotients as Segal (groupoid) cubical objects.
-  [Slides](/images/muri2025.pdf)
+  [Slides](muri2025.pdf)
 
 - **Fibrant Inductive Types from Universal Monads** at **CMU HoTT Seminar 2024**
 
