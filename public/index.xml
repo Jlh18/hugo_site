@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Joseph Hua</title>
-    <link>http://jlh18.github.io/</link>
+    <link>http://localhost:35223/</link>
     <description>Recent content on Joseph Hua</description>
-    <generator>Hugo -- 0.147.7</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jun 2025 07:19:16 -0400</lastBuildDate>
-    <atom:link href="http://jlh18.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:35223/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HoTTLean</title>
-      <link>http://jlh18.github.io/hottlean/</link>
+      <link>http://localhost:35223/hottlean/</link>
       <pubDate>Tue, 10 Jun 2025 07:19:16 -0400</pubDate>
-      <guid>http://jlh18.github.io/hottlean/</guid>
+      <guid>http://localhost:35223/hottlean/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/sinhp/groupoid_model_in_lean4&#34;&gt;HoTTLean&lt;/a&gt; is a project that aims to&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Create a proof assistant for a fragment of HoTT (homtopy type theory) called
@@ -31,9 +31,9 @@ can be &amp;ldquo;compiled&amp;rdquo; into proofs about Mathlib&amp;rsquo;s grou
     </item>
     <item>
       <title>Ax-G in Lean</title>
-      <link>http://jlh18.github.io/axg/</link>
+      <link>http://localhost:35223/axg/</link>
       <pubDate>Tue, 10 Jun 2025 07:19:16 -0400</pubDate>
-      <guid>http://jlh18.github.io/axg/</guid>
+      <guid>http://localhost:35223/axg/</guid>
       <description>&lt;p&gt;My masters project was formalizing the model theoretic proof of
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Ax%E2%80%93Grothendieck_theorem&#34;&gt;&lt;strong&gt;Ax-Grothendieck&lt;/strong&gt;&lt;/a&gt;
 in Lean.
@@ -43,10 +43,10 @@ and my paper and presentation on the subject can both be found
 &lt;a href=&#34;https://github.com/Jlh18/ModelTheory8Report&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Hott Game</title>
-      <link>http://jlh18.github.io/hottgame/</link>
+      <title>The HoTT Game</title>
+      <link>http://localhost:35223/hottgame/</link>
       <pubDate>Tue, 10 Jun 2025 07:19:16 -0400</pubDate>
-      <guid>http://jlh18.github.io/hottgame/</guid>
+      <guid>http://localhost:35223/hottgame/</guid>
       <description>&lt;p&gt;I developed
 &lt;a href=&#34;https://thehottgameguide.readthedocs.io/&#34;&gt;The HoTT Game&lt;/a&gt;,
 which is a game in Cubial Agda where mathematicians can try out
@@ -54,9 +54,9 @@ Homotopy Type Theory using agda.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Classical Model Theory</title>
-      <link>http://jlh18.github.io/classicalmodeltheory/</link>
+      <link>http://localhost:35223/classicalmodeltheory/</link>
       <pubDate>Tue, 10 Jun 2025 07:19:16 -0400</pubDate>
-      <guid>http://jlh18.github.io/classicalmodeltheory/</guid>
+      <guid>http://localhost:35223/classicalmodeltheory/</guid>
       <description>&lt;p&gt;I have made a lot of notes on classical model theory,
 available &lt;a href=&#34;https://github.com/Jlh18/model_theory_notes&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>

@@ -1,6 +1,6 @@
 +++
 date = '2025-06-10T07:19:16-04:00'
-title = 'The Hott Game'
+title = 'The HoTT Game'
 menus = 'main'
 weight = 3
 +++
