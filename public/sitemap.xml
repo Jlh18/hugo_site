@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:35223/hottlean/</loc>
+    <loc>http://localhost:34391/hottlean/</loc>
     <lastmod>2025-06-10T07:19:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:35223/axg/</loc>
+    <loc>http://localhost:34391/axg/</loc>
     <lastmod>2025-06-10T07:19:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:35223/hottgame/</loc>
+    <loc>http://localhost:34391/hottgame/</loc>
     <lastmod>2025-06-10T07:19:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:35223/classicalmodeltheory/</loc>
+    <loc>http://localhost:34391/classicalmodeltheory/</loc>
     <lastmod>2025-06-10T07:19:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:35223/</loc>
+    <loc>http://localhost:34391/</loc>
     <lastmod>2025-06-10T07:19:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:35223/categories/</loc>
+    <loc>http://localhost:34391/categories/</loc>
   </url><url>
-    <loc>http://localhost:35223/tags/</loc>
+    <loc>http://localhost:34391/tags/</loc>
   </url>
 </urlset>

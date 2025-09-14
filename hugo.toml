@@ -9,3 +9,7 @@ theme = 'PaperMod'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[module.mounts]
+source = 'images'
+target = 'static/images'
